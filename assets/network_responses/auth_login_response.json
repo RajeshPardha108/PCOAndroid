@@ -1,0 +1,28 @@
+{
+  "access_token": "ddaf9a79-c276-443d-9305-7dcfa3fffd17",
+  "token_type": "Bearer",
+  "expires_in": 7200,
+  "refresh_token": "7ec28ebc-5d4f-4022-90d5-dfdcb133fad7",
+  "scope": "authorized recognized",
+  "memberId": "1134858948",
+  "householdId": "1134858947",
+  "status": "ACTIVE",
+  "roles": [
+    "USER"
+  ],
+  "preferredName": "Test",
+  "email": "test@test.com",
+  "member": {
+    "householdId": "1134858947",
+    "status": "ACTIVE",
+    "roles": [
+      "USER"
+    ],
+    "id": "1134858948",
+    "email": "test@test.com",
+    "preferredName": "Test Test",
+    "languagePreference": "EN",
+    "memberSinceDate": "2018-04-15T22:43:48Z"
+  },
+  "pcid": "f03c942a-8445-4fa6-b590-b514535669af"
+}

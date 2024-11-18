@@ -1,0 +1,54 @@
+{
+  "CONVERSION_NON_ACTIVE_ACCOUNT": "Vous tentez de lier un compte inactif",
+  "MEMBERS_NOT_FOUND": "Numéro de carte invalide.",
+  "CLAIMS_INVALID_CARD_NUMBER": "Numéro de carte invalide.",
+  "MEMBERS_POINTEVENT_NOT_FOUND": "L’information demandée ne peut être trouvée, désolé!",
+  "MEMBERS_OFFER_NOT_FOUND": "Aucune nouvelle offre. Vous êtes à jour!",
+  "MEMBERS_PHONE_NUMBER_ALREADY_EXISTS": "Il semble qu’il y ait déjà un compte associé à ce numéro.",
+  "CONVERSION_NO_TRANSACTIONS": "Aucune transaction valide trouvée",
+  "CONVERSION_NOT_FOUND": "Aucune conversion valide trouvée, veuillez réessayer",
+  "CONVERSION_DEVICE_DETAILS_ERROR": "Vous avez entré un identifiant de compte invalide.",
+  "CONVERSION_INVALID_EMAIL": "Nous sommes désolés, le courriel entré est invalide.",
+
+  "CONVERSION_INVALID_CARD_NUMBER": "Numéro de carte introuvable, veuillez réessayer.",
+  "CONVERSION_EMAIL_NOT_FOUND": "Courriel introuvable, veuillez réessayer.",
+  "CONVERSION_INVALID_SECRET": "Le mot de passe entré est incorrect.",
+  "CONVERSION_INVALID_PCF_CREDENTIALS": "Le nom et le numéro de la carte ne correspondent pas à ce que nous avons dans nos dossiers.",
+  "CONVERSION_AUTHMETHOD_INVALID": "Entrée invalide, veuillez réessayer",
+  "CONVERSION_CHALLENGE_QUESTION_LOCKED": "Vous avez dépassé le nombre de tentatives de connexion maximal permis. Veuillez suivre les étapes suivantes",
+  "CONVERSION_INVALID_TOKEN": "Nous avons de la difficulté à vérifier ce lien. Veuillez réessayer",
+  "CONVERSION_ALREADY_CLAIMED_BY_YOU": "Il semble que vous ayez déjà lié cette carte. ",
+  "MEMBERS_AUTHORIZATION_FAILURE": "Cette carte a déjà été activée par quelqu’un d’autre.",
+  "CONVERSION_INVALID_MEMBER_ID": "Cette conversion a été initiée depuis un autre compte. Veuillez vous déconnecter et ouvrir une autre session.",
+  "CONVERSION_INVALID_ANSWERS": "Vous n’avez pas donné la bonne réponse à une des questions. Veuillez réessayer de répondre aux questions suivantes correctement.",
+
+  "MEMBERS_ALREADY_EXISTS": "Ce courriel est déjà associé à un compte.",
+
+  "missing_access_token": "Votre session est expirée, veuillez vous reconnecter",
+  "invalid_token": "Votre session est expirée, veuillez vous reconnecter",
+  "invalid_id_match": "Votre session est expirée, veuillez vous reconnecter",
+  "invalid_grant": "Votre session est expirée, veuillez vous reconnecter",
+  "invalid_key_authentication": "Courriel ou mot de passe invalide",
+  "invalid_key_authentication_registration": "It looks like you already have a PCid.",
+  "invalid_token_scope": "Veuillez vous connecter pour voir cette page",
+  "invalid_email_change": "Cette adresse courriel est déjà associée à un compte. Veuillez choisir une autre adresse.",
+
+  "OFFERS_NOT_FOUND": "Nous n’arrivons pas à trouver l’offre que vous recherchez",
+  "OFFERS_DEFER_BAD_REQUEST": "Désolé, vous ne pouvez pas reporter plus de quatre offres à la fois",
+  "OFFERS_BAD_REQUEST": "Une erreur est survenue pendant la mise à jour de cette offre",
+
+  "EMAILVERIFICATION_TOKEN_NOT_FOUND": "Votre lien a expiré. Veuillez ouvrir une session ou cliquez sur Mot de passe oublié.",
+  "EMAILVERIFICATION_MEMBERS_NOT_REGISTERED": "Ce courriel n’est associé à aucun compte du programme PC Optimum.",
+  "EMAILVERIFICATION_MEMBERS_NOT_REGISTERED_SIGNUP": "Ce courriel n’est associé à aucun compte du programme PC Optimum.",
+  "EMAIL_SENDING_FAILED": "Une erreur est survenue pendant le traitement de votre demande. Veuillez réessayer.",
+  "MEMBERS_ACCOUNT_SUSPENDED": "On dirait qu’il y a un problème avec votre compte. Veuillez communiquer avec le service à la clientèle au 1 800 XXX-XXXX",
+
+  "INVITATION_ALREADY_EXISTS": "Vous avez déjà envoyé une invitation à ce membre.",
+
+  "CONTACT_FORM_SUBMISSION_FAILURE": "Il y a eu un problème pendant la soumission de votre demande. Veuillez appeler au 1 800 727-6468.",
+
+  "CLIENT_2FA_REQUIRED": "Veuillez vous reconnecter pour continuer, car la vérification en deux étapes a été activée depuis un autre appareil.",
+
+  "password_policy_violation": "Ce mot de passe est trop courant. Essayez d'ajouter un ou deux autres mots.",
+  "FEATURE_UNAVAILABLE":  "Nous sommes désolés, cette fonctionnalité est actuellement indisponible."
+}

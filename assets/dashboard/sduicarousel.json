@@ -1,0 +1,250 @@
+{
+  "viewId": "dashboard-sdm-carousel-page-section",
+  "contentId": "1HYQwZznGurJaXi4VRoYvD",
+  "urlPath": null,
+  "headline": null,
+  "header": null,
+  "layout": {
+    "typeId": "pageLayoutSingleColumn",
+    "sections": {
+      "headerSection": null,
+      "mainContentCollection": {
+        "components": [
+          {
+            "componentId": "offerCarouselComponent",
+            "contentId": "4l6wVpX4708enY1RKNc2tv",
+            "variantId": "MEDIUM",
+            "id": "4l6wVpX4708enY1RKNc2tv",
+            "data": {
+              "headline": "SDM Products",
+              "subHeadline": "Great products you might like!",
+              "displayText": null,
+              "backgroundImage": null,
+              "backgroundColour": null,
+              "numberOfElements": 8,
+              "moreInformationCta": null,
+              "bottomSpacing": "NONE",
+              "bannerImage": null,
+              "bannerColour": null,
+              "bannerLogo": null,
+              "bannerText": null,
+              "displayText1": "Valid Jun 25 - Jul 3, 2024",
+              "logo": null,
+              "section": "DASHBOARD_SDM_PRODUCTS",
+              "offers": [
+                {
+                  "offerId": "3348901711609",
+                  "imageStyle": "ACTIVE",
+                  "imageType": "STANDARD",
+                  "imageAssets": {
+                    "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "altText": "DIOR Dior Addict Lip Glow Balm",
+                    "smallUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "mediumUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "largeUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "smallRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "mediumRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "largeRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg"
+                  },
+                  "banners": [],
+                  "shoppingListStatus": "NOT_APPLICABLE",
+                  "badgeInfo": "NONE",
+                  "badgeInfoText": "",
+                  "expiryDate": "2024-07-03",
+                  "expiryDateText": "Ends on Jul 3, 2024",
+                  "expiryDateStyle": "STANDARD",
+                  "rewardText": "$54.00",
+                  "rewardStyle": "ACTIVE",
+                  "descriptionText": "DIOR Dior Addict Lip Glow Balm",
+                  "descriptionStyle": "ACTIVE",
+                  "isDeferrable": false,
+                  "isRejectable": false,
+                  "shopNowCta": {
+                    "text": "Shop now",
+                    "url": "//redirect?link=https%3A%2F%2Fshop.shoppersdrugmart.ca%2Fdior-dior-dior-addict-lip-glow-balm%2Fp%2FU919%3FvariantCode%3D3348901711609"
+                  },
+                  "startDate": "2024-06-25"
+                },
+                {
+                  "offerId": "BB_885609027319",
+                  "imageStyle": "ACTIVE",
+                  "imageType": "STANDARD",
+                  "imageAssets": {
+                    "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "altText": "Dyson V8 Cordless Vacuum",
+                    "smallUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "mediumUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "largeUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "smallRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "mediumRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "largeRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg"
+                  },
+                  "banners": [],
+                  "shoppingListStatus": "NOT_APPLICABLE",
+                  "badgeInfo": "NONE",
+                  "badgeInfoText": "",
+                  "expiryDate": "2024-07-03",
+                  "expiryDateText": "Ends on Jul 3, 2024",
+                  "expiryDateStyle": "STANDARD",
+                  "rewardText": "$599.99 Ea",
+                  "rewardStyle": "ACTIVE",
+                  "descriptionText": "Dyson V8 Cordless Vacuum",
+                  "descriptionStyle": "ACTIVE",
+                  "isDeferrable": false,
+                  "isRejectable": false,
+                  "shopNowCta": {
+                    "text": "Shop now",
+                    "url": "//redirect?link=https%3A%2F%2Fshop.shoppersdrugmart.ca%2Fdyson-dyson-v8-cordless-vacuum%2Fp%2FBB_885609027319%3FvariantCode%3D885609027319%26source%3Dnspt"
+                  },
+                  "startDate": "2024-06-25"
+                },
+                {
+                  "offerId": "33489017116091",
+                  "imageStyle": "ACTIVE",
+                  "imageType": "STANDARD",
+                  "imageAssets": {
+                    "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "altText": "DIOR Dior Addict Lip Glow Balm",
+                    "smallUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "mediumUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "largeUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "smallRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "mediumRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "largeRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg"
+                  },
+                  "banners": [],
+                  "shoppingListStatus": "NOT_APPLICABLE",
+                  "badgeInfo": "NONE",
+                  "badgeInfoText": "",
+                  "expiryDate": "2024-07-03",
+                  "expiryDateText": "Ends on Jul 3, 2024",
+                  "expiryDateStyle": "STANDARD",
+                  "rewardText": "$54.00",
+                  "rewardStyle": "ACTIVE",
+                  "descriptionText": "DIOR Dior Addict Lip Glow Balm",
+                  "descriptionStyle": "ACTIVE",
+                  "isDeferrable": false,
+                  "isRejectable": false,
+                  "shopNowCta": {
+                    "text": "Shop now",
+                    "url": "//redirect?link=https%3A%2F%2Fshop.shoppersdrugmart.ca%2Fdior-dior-dior-addict-lip-glow-balm%2Fp%2FU919%3FvariantCode%3D3348901711609"
+                  },
+                  "startDate": "2024-06-25"
+                },
+                {
+                  "offerId": "BB_8856090273191",
+                  "imageStyle": "ACTIVE",
+                  "imageType": "STANDARD",
+                  "imageAssets": {
+                    "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "altText": "Dyson V8 Cordless Vacuum",
+                    "smallUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "mediumUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "largeUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "smallRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "mediumRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "largeRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg"
+                  },
+                  "banners": [],
+                  "shoppingListStatus": "NOT_APPLICABLE",
+                  "badgeInfo": "NONE",
+                  "badgeInfoText": "",
+                  "expiryDate": "2024-07-03",
+                  "expiryDateText": "Ends on Jul 3, 2024",
+                  "expiryDateStyle": "STANDARD",
+                  "rewardText": "$599.99 Ea",
+                  "rewardStyle": "ACTIVE",
+                  "descriptionText": "Dyson V8 Cordless Vacuum",
+                  "descriptionStyle": "ACTIVE",
+                  "isDeferrable": false,
+                  "isRejectable": false,
+                  "shopNowCta": {
+                    "text": "Shop now",
+                    "url": "//redirect?link=https%3A%2F%2Fshop.shoppersdrugmart.ca%2Fdyson-dyson-v8-cordless-vacuum%2Fp%2FBB_885609027319%3FvariantCode%3D885609027319%26source%3Dnspt"
+                  },
+                  "startDate": "2024-06-25"
+                },
+                {
+                  "offerId": "334890171163091",
+                  "imageStyle": "ACTIVE",
+                  "imageType": "STANDARD",
+                  "imageAssets": {
+                    "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "altText": "DIOR Dior Addict Lip Glow Balm",
+                    "smallUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "mediumUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "largeUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "smallRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "mediumRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg",
+                    "largeRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/3348901711609/enfr/01/front/200/white.jpg"
+                  },
+                  "banners": [],
+                  "shoppingListStatus": "NOT_APPLICABLE",
+                  "badgeInfo": "NONE",
+                  "badgeInfoText": "",
+                  "expiryDate": "2024-07-03",
+                  "expiryDateText": "Ends on Jul 3, 2024",
+                  "expiryDateStyle": "STANDARD",
+                  "rewardText": "$54.00",
+                  "rewardStyle": "ACTIVE",
+                  "descriptionText": "DIOR Dior Addict Lip Glow Balm",
+                  "descriptionStyle": "ACTIVE",
+                  "isDeferrable": false,
+                  "isRejectable": false,
+                  "shopNowCta": {
+                    "text": "Shop now",
+                    "url": "//redirect?link=https%3A%2F%2Fshop.shoppersdrugmart.ca%2Fdior-dior-dior-addict-lip-glow-balm%2Fp%2FU919%3FvariantCode%3D3348901711609"
+                  },
+                  "startDate": "2024-06-25"
+                },
+                {
+                  "offerId": "BB_88560902731921",
+                  "imageStyle": "ACTIVE",
+                  "imageType": "STANDARD",
+                  "imageAssets": {
+                    "url": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "altText": "Dyson V8 Cordless Vacuum",
+                    "smallUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "mediumUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "largeUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "smallRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "mediumRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg",
+                    "largeRetinaUrl": "https://assets.beauty.shoppersdrugmart.ca/bb-prod-product-image/885609027319/enfr/01/front/200/white.jpg"
+                  },
+                  "banners": [],
+                  "shoppingListStatus": "NOT_APPLICABLE",
+                  "badgeInfo": "NONE",
+                  "badgeInfoText": "",
+                  "expiryDate": "2024-07-03",
+                  "expiryDateText": "Ends on Jul 3, 2024",
+                  "expiryDateStyle": "STANDARD",
+                  "rewardText": "$599.99 Ea",
+                  "rewardStyle": "ACTIVE",
+                  "descriptionText": "Dyson V8 Cordless Vacuum",
+                  "descriptionStyle": "ACTIVE",
+                  "isDeferrable": false,
+                  "isRejectable": false,
+                  "shopNowCta": {
+                    "text": "Shop now",
+                    "url": "//redirect?link=https%3A%2F%2Fshop.shoppersdrugmart.ca%2Fdyson-dyson-v8-cordless-vacuum%2Fp%2FBB_885609027319%3FvariantCode%3D885609027319%26source%3Dnspt"
+                  },
+                  "startDate": "2024-06-25"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "bottomStickySection": null
+    }
+  },
+  "footer": null,
+  "viewMetaData": {
+    "headline": "Dashboard SDM Carousel Page Section Metadata",
+    "description": "Dashboard SDM Carousel Page Section Metadata",
+    "addMetaNoRobots": false,
+    "canonicalUrlSlug": null,
+    "jsonLd": null
+  },
+  "theme": null
+}

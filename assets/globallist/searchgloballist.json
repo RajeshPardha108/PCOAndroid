@@ -1,0 +1,1737 @@
+{
+  "viewId": "search-product",
+  "contentId": "6B4KUBJNx1ZwBCrcX9cGiN",
+  "urlPath": null,
+  "headline": "PCO Global List Search",
+  "header": null,
+  "layout": {
+    "typeId": "pageLayoutSingleColumn",
+    "sections": {
+      "headerSection": null,
+      "mainContentCollection": {
+        "components": [
+          {
+            "componentId": "horizontalTileListATLComponent",
+            "contentId": "5hAviSO38HpndbgxB70Enm",
+            "variantId": null,
+            "id": "5hAviSO38HpndbgxB70Enm",
+            "data": {
+              "headerGroup": {
+                "paragraph": {
+                  "text": "Try checking your spelling or searching something less specific.",
+                  "icon": false,
+                  "alignment": "Left",
+                  "variantId": null
+                },
+                "callToAction": null,
+                "headline": {
+                  "text": "No results found for \"{searchTerm}\"",
+                  "alignment": "LEFT",
+                  "variantId": null,
+                  "headerType": "H1",
+                  "callToAction": null
+                },
+                "desktopImage": null,
+                "mobileImage": null,
+                "tabletImage": null
+              },
+              "addListIcon": "https://dis-prod.assetful.loblaw.ca/content/dam/loblaw-companies-limited/creative-assets/pc-optimum/global-list/ATL-addListIcon.svg",
+              "withinListIcon": "https://dis-prod.assetful.loblaw.ca/content/dam/loblaw-companies-limited/creative-assets/pc-optimum/global-list/ATL-withinListIcon.svg",
+              "loadingListIcon": "https://dis-prod.assetful.loblaw.ca/content/dam/loblaw-companies-limited/creative-assets/pc-optimum/global-list/ATL-loadingListIcon.svg",
+              "freeText": {
+                "text": "Bananas",
+                "addToListCta": {
+                  "text": "List",
+                  "url": "/add-to-list"
+                },
+                "removeFromListCta": {
+                  "text": "List",
+                  "url": "/remove-from-list"
+                },
+                "productImage": [
+                  {
+                    "url": null,
+                    "altText": null,
+                    "smallUrl": null,
+                    "mediumUrl": null,
+                    "largeUrl": null,
+                    "smallRetinaUrl": null,
+                    "mediumRetinaUrl": null,
+                    "largeRetinaUrl": null
+                  }
+                ],
+                "listStatus": "ADD_TO_LIST"
+              },
+              "horizontalTilesATL": [
+                {
+                  "index": 0,
+                  "productId": "20175355001_KG",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20175355001/b3/en/front/20175355001_front_a06_@2.png",
+                      "altText": "Bananas, Bunch",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20175355001/b1/en/front/20175355001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20175355001/b3/en/front/20175355001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20175355001/b2/en/front/20175355001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20175355001/b1/en/front/20175355001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20175355001/b3/en/front/20175355001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20175355001/b2/en/front/20175355001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": null,
+                  "title": "Bananas, Bunch",
+                  "description": "*Average bunch has 6-8 bananas. <br> Bananas are typically 6-10 inches long and have a green peel when unripe. They taste best when the peel turns yellow and is speckled with dark spots. ",
+                  "packageSizing": "",
+                  "pricing": {
+                    "price": "175",
+                    "wasPrice": "175",
+                    "displayPrice": "$1.75 kg"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/bananas-bunch/p/20175355001_KG",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20175355001",
+                  "uom": "KG",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 1,
+                  "productId": "20139509001_KG",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20139509001/b3/en/front/20139509001_front_a06_@2.png",
+                      "altText": "PC Organics Organic Bananas, Bunch",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20139509001/b1/en/front/20139509001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20139509001/b3/en/front/20139509001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20139509001/b2/en/front/20139509001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20139509001/b1/en/front/20139509001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20139509001/b3/en/front/20139509001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20139509001/b2/en/front/20139509001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "PC Organics",
+                  "title": "Organic Bananas, Bunch",
+                  "description": "*Average bunch has 6-8 bananas. Bananas are typically 6-10 inches long and have a green peel when unripe. They taste best when the peel turns yellow and is speckled with dark spots. Add bananas to your morning cereal or oatmeal, mash for breads, muffins, and cakes, or slice to make a classic banana cream pie.",
+                  "packageSizing": "",
+                  "pricing": {
+                    "price": "288",
+                    "wasPrice": "288",
+                    "displayPrice": "$2.19 kg"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/organic-bananas-bunch/p/20139509001_KG",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20139509001",
+                  "uom": "KG",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 2,
+                  "productId": "20609687003_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20609687003/b3/en/front/20609687003_front_a06_@2.png",
+                      "altText": "IOGO Drinkable Yogurt, Banana 1.5%",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20609687003/b1/en/front/20609687003_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20609687003/b3/en/front/20609687003_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20609687003/b2/en/front/20609687003_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20609687003/b1/en/front/20609687003_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20609687003/b3/en/front/20609687003_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20609687003/b2/en/front/20609687003_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "IOGO",
+                  "title": "Drinkable Yogurt, Banana 1.5%",
+                  "description": "nanö Drinkable Yogurt is made especially for kids with 40% less sugar and is also  made with real fruit, no preservatives, no gelatin, artificial flavours, artificial colours and made in Canada!",
+                  "packageSizing": "6x93.0 ml",
+                  "pricing": {
+                    "price": "599",
+                    "wasPrice": null,
+                    "displayPrice": "$5.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$5.00 MIN 2",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/drinkable-yogurt-banana-1-5/p/20609687003_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20609687003",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 3,
+                  "productId": "21080779_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21080779/b3/en/front/21080779_front_a06_@2.png",
+                      "altText": "Dare Bear Paws Banana Bread",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21080779/b1/en/front/21080779_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21080779/b3/en/front/21080779_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21080779/b2/en/front/21080779_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21080779/b1/en/front/21080779_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21080779/b3/en/front/21080779_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21080779/b2/en/front/21080779_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Dare",
+                  "title": "Bear Paws Banana Bread",
+                  "description": "<li>Kids love Bear Paws Banana Bread cookies, and parents do too!</li><li>each soft cookie is made better with real bananas and no artificial colours, flavours or sweeteners.</li><li>You can pack them in the lunch box for an easy snack, enjoy them at home or on the go.</li><li>Bear Paws Banana Bread cookies are peanut-free.</li><li>0g Trans Fat, Low in saturated fat, Low Cholesteral, Portion Controlled, Source of Iron</li><li>Made by Dare, a Proudly Canadian Company</li>",
+                  "packageSizing": "240 g",
+                  "pricing": {
+                    "price": "329",
+                    "wasPrice": "350",
+                    "displayPrice": "$3.29 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "SALE",
+                    "text": "SAVE $0.21",
+                    "points": null,
+                    "name": "SALE",
+                    "expiryDate": "2024-04-03T00:00"
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/bear-paws-banana-bread/p/21080779_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21080779",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 4,
+                  "productId": "21006595_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21006595/b3/en/front/21006595_front_a06_@2.png",
+                      "altText": "Oikos Greek Yogurt, Banana Flavour, 2% M.F., 100g (Pack of 4)",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21006595/b1/en/front/21006595_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21006595/b3/en/front/21006595_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21006595/b2/en/front/21006595_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21006595/b1/en/front/21006595_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21006595/b3/en/front/21006595_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21006595/b2/en/front/21006595_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Oikos",
+                  "title": "Greek Yogurt, Banana Flavour, 2% M.F., 100g (Pack of 4)",
+                  "description": "Oikos Greek Yogurt - High in protein : The dream snack for your cravings",
+                  "packageSizing": "4x100.0 g",
+                  "pricing": {
+                    "price": "479",
+                    "wasPrice": null,
+                    "displayPrice": "$4.79 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$4.00 MIN 3",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/greek-yogurt-banana-flavour-2-m-f-100g-pack-of-4/p/21006595_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21006595",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 5,
+                  "productId": "21194518_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21194518/b3/en/front/21194518_front_a06_@2.png",
+                      "altText": "Oikos Greek Yogurt, Strawberry-Banana Flavour, 100g (Pack of 4)",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21194518/b1/en/front/21194518_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21194518/b3/en/front/21194518_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21194518/b2/en/front/21194518_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21194518/b1/en/front/21194518_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21194518/b3/en/front/21194518_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21194518/b2/en/front/21194518_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Oikos",
+                  "title": "Greek Yogurt, Strawberry-Banana Flavour, 100g (Pack of 4)",
+                  "description": "Oikos Greek Yogurt - High in protein : The dream snack for your cravings",
+                  "packageSizing": "4x100.0 g",
+                  "pricing": {
+                    "price": "479",
+                    "wasPrice": null,
+                    "displayPrice": "$4.79 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$4.00 MIN 3",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/greek-yogurt-strawberry-banana-flavour-100g-pack-o/p/21194518_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21194518",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 6,
+                  "productId": "20666167004_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20666167004/b3/en/front/20666167004_front_a06_@2.png",
+                      "altText": "PC Organics Banana, Sweet Potato & Blueberry Strained Baby Food",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20666167004/b1/en/front/20666167004_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20666167004/b3/en/front/20666167004_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20666167004/b2/en/front/20666167004_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20666167004/b1/en/front/20666167004_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20666167004/b3/en/front/20666167004_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20666167004/b2/en/front/20666167004_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "PC Organics",
+                  "title": "Banana, Sweet Potato & Blueberry Strained Baby Food",
+                  "description": "\r\n\r\n \r\n \r\n  Quick! You only have 5 minutes to throw everything in the diaper bag before heading out for a playdate. Luckily, you’ve got a stash of our organic baby food pouches that you can toss in without any fear of mess or breakage. Excellent for babies 6 months and up, our tasty purées - like this one made with organic banana, sweet potato and blueberry - have no added sugar. Just squeeze the food straight onto a spoon – or let your self-feeding baby eat directly from the pouch.",
+                  "packageSizing": "128 ml",
+                  "pricing": {
+                    "price": "179",
+                    "wasPrice": null,
+                    "displayPrice": "$1.79 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$1.40 MIN 5",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/banana-sweet-potato-blueberry-strained-baby-food/p/20666167004_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20666167004",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 7,
+                  "productId": "20431441001_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20431441001/b3/en/front/20431441001_front_a06_@2.png",
+                      "altText": "PC Organics Mini Cereal Bars, Banana Berry",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20431441001/b1/en/front/20431441001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20431441001/b3/en/front/20431441001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20431441001/b2/en/front/20431441001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20431441001/b1/en/front/20431441001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20431441001/b3/en/front/20431441001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20431441001/b2/en/front/20431441001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "PC Organics",
+                  "title": "Mini Cereal Bars, Banana Berry",
+                  "description": "This product is suitable for children 12 months and older. This product should only be fed to seated and supervised children who are accustomed to chewing solid food. • Source of iron • Made with whole grain whole wheat flour, whole grain rolled oats and enriched wheat flour • Made with banana purée, raspberry and strawberry juice concentrates • No artificial flavours or artificial colours",
+                  "packageSizing": "160 g",
+                  "pricing": {
+                    "price": "499",
+                    "wasPrice": null,
+                    "displayPrice": "$4.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$3.75 MIN 2",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/mini-cereal-bars-banana-berry/p/20431441001_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20431441001",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 8,
+                  "productId": "20321615001_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20321615001/b3/en/front/20321615001_front_a06_@2.png",
+                      "altText": "Yoplait Minigo Duo Fresh Cheese Strawberry-Banana/Blueberry-Strawberry/Banana-Blueberry",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20321615001/b1/en/front/20321615001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20321615001/b3/en/front/20321615001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20321615001/b2/en/front/20321615001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20321615001/b1/en/front/20321615001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20321615001/b3/en/front/20321615001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20321615001/b2/en/front/20321615001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Yoplait",
+                  "title": "Minigo Duo Fresh Cheese Strawberry-Banana/Blueberry-Strawberry/Banana-Blueberry",
+                  "description": "Help your kids grow strong by giving them Yoplait Minigo every day. Parents love the goodness, kids love the great taste! Perfect serving size for little ones! <ul><li>No artificial colours or flavours</li><li>With probiotics</li><li>Source of vitamin D and calcium to help build strong bones</li></ul>",
+                  "packageSizing": "6x60.0 g",
+                  "pricing": {
+                    "price": "549",
+                    "wasPrice": null,
+                    "displayPrice": "$5.49 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$4.00 MIN 3",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/minigo-duo-fresh-cheese-strawberry-banana-blueberr/p/20321615001_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20321615001",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 9,
+                  "productId": "20565382_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20565382/b3/en/front/20565382_front_a06_@2.png",
+                      "altText": "Farmer's Market Loaf Cake, Banana",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20565382/b1/en/front/20565382_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20565382/b3/en/front/20565382_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20565382/b2/en/front/20565382_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20565382/b1/en/front/20565382_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20565382/b3/en/front/20565382_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20565382/b2/en/front/20565382_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Farmer's Market",
+                  "title": "Loaf Cake, Banana",
+                  "description": "Loaf cakes are versatile cakes that are baked in loaf pans. They can be sweet or savoury and served with breakfast or as an afternoon snack. Banana loaf cake combines sweet batter with ripe bananas.",
+                  "packageSizing": "390 g",
+                  "pricing": {
+                    "price": "629",
+                    "wasPrice": null,
+                    "displayPrice": "$6.29 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/loaf-cake-banana/p/20565382_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20565382",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 10,
+                  "productId": "20111926001_KG",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20111926001/b3/en/front/20111926001_front_a06_@2.png",
+                      "altText": "Plantains, Single",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20111926001/b1/en/front/20111926001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20111926001/b3/en/front/20111926001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20111926001/b2/en/front/20111926001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20111926001/b1/en/front/20111926001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20111926001/b3/en/front/20111926001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20111926001/b2/en/front/20111926001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": null,
+                  "title": "Plantains, Single",
+                  "description": "Plantains are larger than regular bananas, with thicker skin and less sugar. They are typically cooked when green and have a mild flavour that is similar to squash. Bake sliced plantains for chips, or mash and season with lime and salt for a flavourful side dish.",
+                  "packageSizing": "",
+                  "pricing": {
+                    "price": "123",
+                    "wasPrice": null,
+                    "displayPrice": "$1.23 kg"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH_PRICED_BY_WEIGHT",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/plantains-single/p/20111926001_KG",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20111926001",
+                  "uom": "KG",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 11,
+                  "productId": "20275868001_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20275868001/b3/en/front/20275868001_front_a06_@2.png",
+                      "altText": "Yoplait Minigo Fresh Cheese Strawberry/Strawberry-Vanilla/Strawberry-Banana",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20275868001/b1/en/front/20275868001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20275868001/b3/en/front/20275868001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20275868001/b2/en/front/20275868001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20275868001/b1/en/front/20275868001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20275868001/b3/en/front/20275868001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20275868001/b2/en/front/20275868001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Yoplait",
+                  "title": "Minigo Fresh Cheese Strawberry/Strawberry-Vanilla/Strawberry-Banana",
+                  "description": "Help your kids grow strong by giving them Yoplait Minigo every day. Parents love the goodness, kids love the great taste! Perfect serving size for little ones! <ul><li>No artificial colours or flavours</li><li>With probiotics</li><li>Source of vitamin D and calcium to help build strong bones</li></ul>",
+                  "packageSizing": "6x60.0 g",
+                  "pricing": {
+                    "price": "549",
+                    "wasPrice": null,
+                    "displayPrice": "$5.49 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$4.00 MIN 3",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/minigo-fresh-cheese-strawberry-strawberry-vanilla/p/20275868001_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20275868001",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 12,
+                  "productId": "20666167002_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20666167002/b3/en/front/20666167002_front_a06_@2.png",
+                      "altText": "PC Organics Banana, Apple & Carrot",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20666167002/b1/en/front/20666167002_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20666167002/b3/en/front/20666167002_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20666167002/b2/en/front/20666167002_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20666167002/b1/en/front/20666167002_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20666167002/b3/en/front/20666167002_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20666167002/b2/en/front/20666167002_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "PC Organics",
+                  "title": "Banana, Apple & Carrot",
+                  "description": "Wait till you see how our squeezable BPA-free pouches give you added convenience and portability. What a great alternative to jars! You can squeeze food directly onto spoons or into bowls. And when baby is ready, they’re ideal for self-feeding. Made with certified organic ingredients with no sugar added and no artificial flavours or colours. Try adding a couple spoonfuls to baby cereal for added taste.",
+                  "packageSizing": "128 ml",
+                  "pricing": {
+                    "price": "179",
+                    "wasPrice": null,
+                    "displayPrice": "$1.79 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$1.40 MIN 5",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/banana-apple-carrot/p/20666167002_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20666167002",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 13,
+                  "productId": "20651270002_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20651270002/b3/en/front/20651270002_front_a06_@2.png",
+                      "altText": "PC Organics Apple, Banana & Blueberry",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20651270002/b1/en/front/20651270002_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20651270002/b3/en/front/20651270002_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20651270002/b2/en/front/20651270002_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20651270002/b1/en/front/20651270002_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20651270002/b3/en/front/20651270002_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20651270002/b2/en/front/20651270002_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "PC Organics",
+                  "title": "Apple, Banana & Blueberry",
+                  "description": "Suitable for babies 9 months and older, our strained organic baby food can be squeezed directly from pouch to spoon for easy feeding and cleanup. Made with creamy yogurt and a delicious blend of organic apple, banana and blueberry purées, it has no sugar added.",
+                  "packageSizing": "128 ml",
+                  "pricing": {
+                    "price": "179",
+                    "wasPrice": null,
+                    "displayPrice": "$1.79 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$1.40 MIN 5",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/apple-banana-blueberry/p/20651270002_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20651270002",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 14,
+                  "productId": "21107607_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21107607/b3/en/front/21107607_front_a06_@2.png",
+                      "altText": "Made Good Soft Baked Mini Cookies Chocolate Banana",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21107607/b1/en/front/21107607_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21107607/b3/en/front/21107607_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21107607/b2/en/front/21107607_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21107607/b1/en/front/21107607_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21107607/b3/en/front/21107607_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21107607/b2/en/front/21107607_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Made Good",
+                  "title": "Soft Baked Mini Cookies Chocolate Banana",
+                  "description": null,
+                  "packageSizing": "120 g",
+                  "pricing": {
+                    "price": "399",
+                    "wasPrice": null,
+                    "displayPrice": "$3.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/soft-baked-mini-cookies-chocolate-banana/p/21107607_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21107607",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 15,
+                  "productId": "20651248001_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20651248001/b3/en/front/20651248001_front_a06_@2.png",
+                      "altText": "PC Organics Banana & Kiwi",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20651248001/b1/en/front/20651248001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20651248001/b3/en/front/20651248001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20651248001/b2/en/front/20651248001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20651248001/b1/en/front/20651248001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20651248001/b3/en/front/20651248001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20651248001/b2/en/front/20651248001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "PC Organics",
+                  "title": "Banana & Kiwi",
+                  "description": "No sugar added. No artificial flavours or artificial colours.",
+                  "packageSizing": "128 ml",
+                  "pricing": {
+                    "price": "179",
+                    "wasPrice": null,
+                    "displayPrice": "$1.79 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$1.40 MIN 5",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/banana-kiwi/p/20651248001_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20651248001",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 16,
+                  "productId": "20297058_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20297058/b3/en/front/20297058_front_a06_@2.png",
+                      "altText": "President's Choice Pickled Hot Banana Pepper Rings",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20297058/b1/en/front/20297058_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20297058/b3/en/front/20297058_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20297058/b2/en/front/20297058_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20297058/b1/en/front/20297058_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20297058/b3/en/front/20297058_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20297058/b2/en/front/20297058_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "President's Choice",
+                  "title": "Pickled Hot Banana Pepper Rings",
+                  "description": "The fastest, easiest way to add a hit of spicy flavour to sandwiches, salads and burgers. We love them in sauces and stirfries, too.",
+                  "packageSizing": "750 ml",
+                  "pricing": {
+                    "price": "499",
+                    "wasPrice": null,
+                    "displayPrice": "$4.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/pickled-hot-banana-pepper-rings/p/20297058_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20297058",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 17,
+                  "productId": "20415694001_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20415694001/b3/en/front/20415694001_front_a06_@2.png",
+                      "altText": "GoGo squeez Squeeze, Applesauce Apple Banana",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20415694001/b1/en/front/20415694001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20415694001/b3/en/front/20415694001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20415694001/b2/en/front/20415694001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20415694001/b1/en/front/20415694001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20415694001/b3/en/front/20415694001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20415694001/b2/en/front/20415694001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "GoGo squeez",
+                  "title": "Squeeze, Applesauce Apple Banana",
+                  "description": "Gogo Squeez is a pasteurized product that allows shelf storage at room temperature without using preservatives. <br><br>Made with nothing but... real fruit & a splash of juice!.<br><br>Ideal for lunch box.",
+                  "packageSizing": "4x90.0 g",
+                  "pricing": {
+                    "price": "459",
+                    "wasPrice": null,
+                    "displayPrice": "$4.59 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$3.50 MIN 2",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/squeeze-applesauce-apple-banana/p/20415694001_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20415694001",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 18,
+                  "productId": "21221431_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21221431/b3/en/front/21221431_front_a06_@2.png",
+                      "altText": "Leclerc Go Pure Fruit and Oat Bars, Banana and Strawberry",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21221431/b1/en/front/21221431_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21221431/b3/en/front/21221431_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21221431/b2/en/front/21221431_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21221431/b1/en/front/21221431_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21221431/b3/en/front/21221431_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21221431/b2/en/front/21221431_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Leclerc",
+                  "title": "Go Pure Fruit and Oat Bars, Banana and Strawberry",
+                  "description": null,
+                  "packageSizing": "140 g",
+                  "pricing": {
+                    "price": "429",
+                    "wasPrice": null,
+                    "displayPrice": "$4.29 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/go-pure-fruit-and-oat-bars-banana-and-strawberry/p/21221431_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21221431",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 19,
+                  "productId": "20926607_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20926607/b3/en/front/20926607_front_a06_@2.png",
+                      "altText": "President's Choice Strawberries, Bananas & Kiwi Fruit Blend",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20926607/b1/en/front/20926607_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20926607/b3/en/front/20926607_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20926607/b2/en/front/20926607_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20926607/b1/en/front/20926607_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20926607/b3/en/front/20926607_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20926607/b2/en/front/20926607_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "President's Choice",
+                  "title": "Strawberries, Bananas & Kiwi Fruit Blend",
+                  "description": "Tropical fruit is in season all year round thanks to this ripe, juicy frozen blend. Unlike fresh fruit there’s no prep required, so you can instantly add some to smoothies and milkshakes or top your cereal, yogurt and ice cream. For a tasty treat, blend fruit with yogurt or kefir and freeze on sticks for homemade freezer pops.",
+                  "packageSizing": "600 g",
+                  "pricing": {
+                    "price": "599",
+                    "wasPrice": null,
+                    "displayPrice": "$5.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$5.00 MIN 2",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/strawberries-bananas-kiwi-fruit-blend/p/20926607_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20926607",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 21,
+                  "productId": "21097185_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21097185/b3/en/front/21097185_front_a06_@2.png",
+                      "altText": "Gerber Organic Yogurt Melts, Strawberry Banana",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21097185/b1/en/front/21097185_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21097185/b3/en/front/21097185_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21097185/b2/en/front/21097185_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21097185/b1/en/front/21097185_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21097185/b3/en/front/21097185_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21097185/b2/en/front/21097185_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Gerber",
+                  "title": "Organic Yogurt Melts, Strawberry Banana",
+                  "description": "Introducing new GERBER Organic YOGURT MELTS Strawberry Banana (28 g) made for your little toddler. GERBER Organic YOGURT MELTS are a delicious, no-mess toddler snack made with the goodness of real organic yogurt and fruit. GERBER Organic YOGURT MELTS dissolve easily, are easy to chew and swallow, and are perfectly shaped and sized for little hands. They’re a source of calcium, and contain no artificial flavours, colours or sweeteners.<ul><li>Perfect Toddler Yogurt Snack — GERBER Organic YOGURT MELTS are designed to be nutritious and delicious, made with real organic yogurt and fruit, with NO artificial flavours, colours or sweeteners </li><li>GERBER Organic YOGURT MELTS contain NO added salt and are non-GMO**Not made with genetically engineered ingredients, like all organic products.</li><li>GERBER Organic YOGURT MELTS are a source of calcium, which helps build strong bones and teeth</li><li>GERBER Organic YOGURT MELTS dissolve easily, are easy to chew and swallow</li><li>Our GERBER Organic YOGURT MELTS are perfectly shaped and sized for little hands – helping toddlers to learn how to self-feed</li></ul>",
+                  "packageSizing": "28 g",
+                  "pricing": {
+                    "price": "599",
+                    "wasPrice": null,
+                    "displayPrice": "$5.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$4.75 MIN 2",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/organic-yogurt-melts-strawberry-banana/p/21097185_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21097185",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 22,
+                  "productId": "20318545001_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20318545001/b3/en/front/20318545001_front_a06_@2.png",
+                      "altText": "Bicks Pickled Hot Banana Pepper Rings",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20318545001/b1/en/front/20318545001_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20318545001/b3/en/front/20318545001_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20318545001/b2/en/front/20318545001_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20318545001/b1/en/front/20318545001_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20318545001/b3/en/front/20318545001_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20318545001/b2/en/front/20318545001_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Bicks",
+                  "title": "Pickled Hot Banana Pepper Rings",
+                  "description": "Bickâ€™s Hot Pepper Rings are a blend of red yellow and orange banana peppers sliced to make topping your favourite meals easy. Flavoured in an extra spicy brine for that kick of heat you crave add it to BBQ fare or sandwiches to spice up your everyday meals.",
+                  "packageSizing": "750 ml",
+                  "pricing": {
+                    "price": "579",
+                    "wasPrice": null,
+                    "displayPrice": "$5.79 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/pickled-hot-banana-pepper-rings/p/20318545001_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20318545001",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 23,
+                  "productId": "20304618002_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20304618002/b3/en/front/20304618002_front_a06_@2.png",
+                      "altText": "Nestle PUFFS, Banana, Baby Snacks",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20304618002/b1/en/front/20304618002_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20304618002/b3/en/front/20304618002_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20304618002/b2/en/front/20304618002_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20304618002/b1/en/front/20304618002_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20304618002/b3/en/front/20304618002_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20304618002/b2/en/front/20304618002_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Nestle",
+                  "title": "PUFFS, Banana, Baby Snacks",
+                  "description": "New look, same great taste! GERBER PUFFS, Banana, Baby Snacks (42 g) are made with your little one in mind. GERBER PUFFS are made with whole grains, rice, and real apple. They dissolve easily, and are a great source of iron and zinc, which help support baby’s normal growth and development. Even more, GERBER PUFFS are perfectly shaped and sized for picking up! Our star-shaped Puffs are a great first finger food snack for baby, and also help develop your baby’s fine oral and motor skills.<ul><li>Perfect for baby’s first finger food snack — GERBER PUFFS dissolve easily (they are melt-in-your-mouth good) and are nutritious, with no artificial colours or flavours </li><li>GERBER PUFFS contain 3 g of whole grains per serving and contain no added salt*</li><li>GERBER PUFFS are made with only NON-GMO ingredients**</li><li>GERBER PUFFS are an excellent source of zinc and iron, which help support baby’s growth and development</li><li>GERBER PUFFS are Kosher</li></ul>*All cereal-based foods for babies under 12 months should not contain added salt.**Not made with genetically engineered ingredients",
+                  "packageSizing": "42 g",
+                  "pricing": {
+                    "price": "499",
+                    "wasPrice": null,
+                    "displayPrice": "$4.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$4.00 MIN 2",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/puffs-banana-baby-snacks/p/20304618002_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20304618002",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 24,
+                  "productId": "21235343_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21235343/b3/en/front/21235343_front_a06_@2.png",
+                      "altText": "President's Choice Banana Split Mini Ice Cream Bars",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21235343/b1/en/front/21235343_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21235343/b3/en/front/21235343_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21235343/b2/en/front/21235343_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21235343/b1/en/front/21235343_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21235343/b3/en/front/21235343_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21235343/b2/en/front/21235343_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "President's Choice",
+                  "title": "Banana Split Mini Ice Cream Bars",
+                  "description": "Banana and vanilla-flavoured ice creams studded with chopped cherries, in a rich milk chocolatey coating with peanut pieces - on a stick!",
+                  "packageSizing": "330 ml",
+                  "pricing": {
+                    "price": "599",
+                    "wasPrice": null,
+                    "displayPrice": "$5.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/banana-split-mini-ice-cream-bars/p/21235343_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21235343",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 25,
+                  "productId": "21081890_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21081890/b3/en/front/21081890_front_a06_@2.png",
+                      "altText": "Dare Bear Paws Banana Bread",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21081890/b1/en/front/21081890_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21081890/b3/en/front/21081890_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21081890/b2/en/front/21081890_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21081890/b1/en/front/21081890_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21081890/b3/en/front/21081890_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21081890/b2/en/front/21081890_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Dare",
+                  "title": "Bear Paws Banana Bread",
+                  "description": "<li>Kids love Bear Paws Banana Bread cookies, and parents do too!</li><li>each soft cookie is made better with real bananas and no artificial colours, flavours or sweeteners.</li><li>You can pack them in the lunch box for an easy snack, enjoy them at home or on the go.</li><li>Bear Paws Banana Bread cookies are peanut-free.</li><li>0g Trans Fat, Low in saturated fat, Low Cholesteral, Portion Controlled, Source of Iron</li><li>Made by Dare, a Proudly Canadian Company</li>",
+                  "packageSizing": "480 g",
+                  "pricing": {
+                    "price": "699",
+                    "wasPrice": null,
+                    "displayPrice": "$6.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/bear-paws-banana-bread/p/21081890_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21081890",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 26,
+                  "productId": "20992725_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20992725/b3/en/front/20992725_front_a06_@2.png",
+                      "altText": "Betty Crocker Banana Bread with Walnuts Mix",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20992725/b1/en/front/20992725_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20992725/b3/en/front/20992725_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20992725/b2/en/front/20992725_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20992725/b1/en/front/20992725_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20992725/b3/en/front/20992725_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20992725/b2/en/front/20992725_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Betty Crocker",
+                  "title": "Banana Bread with Walnuts Mix",
+                  "description": "A delicious dessert is only a few minutes way with Betty Crocker Banana Bread mix! Serve as banana bread or make your own muffins for a great tasting snack!",
+                  "packageSizing": "348 g",
+                  "pricing": {
+                    "price": "449",
+                    "wasPrice": null,
+                    "displayPrice": "$4.49 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/banana-bread-with-walnuts-mix/p/20992725_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20992725",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 27,
+                  "productId": "20876204_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20876204/b3/en/front/20876204_front_a06_@2.png",
+                      "altText": "Baby Gourmet Cherry Banana & Spinach",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20876204/b1/en/front/20876204_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20876204/b3/en/front/20876204_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20876204/b2/en/front/20876204_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20876204/b1/en/front/20876204_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20876204/b3/en/front/20876204_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20876204/b2/en/front/20876204_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Baby Gourmet",
+                  "title": "Cherry Banana & Spinach",
+                  "description": "Bursting with bright ripe cherries, creamy banana and fresh green spinach, this simple blend will excite little one's on their food journey.",
+                  "packageSizing": "128 ml",
+                  "pricing": {
+                    "price": "229",
+                    "wasPrice": null,
+                    "displayPrice": "$2.29 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": {
+                    "type": "MULTI",
+                    "text": "$1.75 MIN 4",
+                    "points": null,
+                    "name": "MULTI",
+                    "expiryDate": null
+                  },
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/cherry-banana-spinach/p/20876204_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20876204",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 28,
+                  "productId": "21161204_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/21161204/b3/en/front/21161204_front_a06_@2.png",
+                      "altText": "Chapmans Lolly Banana",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/21161204/b1/en/front/21161204_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/21161204/b3/en/front/21161204_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/21161204/b2/en/front/21161204_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21161204/b1/en/front/21161204_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21161204/b3/en/front/21161204_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21161204/b2/en/front/21161204_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Chapmans",
+                  "title": "Lolly Banana",
+                  "description": "It’s almost as if you peeled the banana itself. Chapman’s banana lollys are packed with Natural flavour. They are Peanut/Nut Free, Gluten Free and Lactose Free. At 40 calories per treat you are free to have as many as you wish…we’ll never tell.",
+                  "packageSizing": "28x50.0 ml",
+                  "pricing": {
+                    "price": "699",
+                    "wasPrice": null,
+                    "displayPrice": "$6.99 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/lolly-banana/p/21161204_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "21161204",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                },
+                {
+                  "index": 29,
+                  "productId": "20987262_EA",
+                  "productImage": [
+                    {
+                      "url": "https://assets.shop.loblaws.ca/products/20987262/b3/en/front/20987262_front_a06_@2.png",
+                      "altText": "Made Good Granola Minis, Chocolate Banana",
+                      "smallUrl": "https://assets.shop.loblaws.ca/products/20987262/b1/en/front/20987262_front_a01_@2.png",
+                      "mediumUrl": "https://assets.shop.loblaws.ca/products/20987262/b3/en/front/20987262_front_a06_@2.png",
+                      "largeUrl": "https://assets.shop.loblaws.ca/products/20987262/b2/en/front/20987262_front_a06_@2.png",
+                      "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20987262/b1/en/front/20987262_front_a01_@2.png",
+                      "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20987262/b3/en/front/20987262_front_a06_@2.png",
+                      "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20987262/b2/en/front/20987262_front_a06_@2.png"
+                    }
+                  ],
+                  "brand": "Made Good",
+                  "title": "Granola Minis, Chocolate Banana",
+                  "description": null,
+                  "packageSizing": "100 g",
+                  "pricing": {
+                    "price": "549",
+                    "wasPrice": null,
+                    "displayPrice": "$5.49 ea"
+                  },
+                  "pricingUnits": {
+                    "type": "SOLD_BY_EACH",
+                    "unit": "EA",
+                    "interval": 1.0,
+                    "minOrderQuantity": 1,
+                    "maxOrderQuantity": 25,
+                    "weighted": false
+                  },
+                  "deal": null,
+                  "inventoryIndicator": null,
+                  "offerType": "OG",
+                  "offerId": null,
+                  "isVariant": null,
+                  "link": "/granola-minis-chocolate-banana/p/20987262_EA",
+                  "productVendor": null,
+                  "productVariant": null,
+                  "textBadge": "",
+                  "variantTheme": null,
+                  "articleNumber": "20987262",
+                  "uom": "EA",
+                  "isSponsored": null,
+                  "isComplementarySponsored": null,
+                  "complementarySponsoredBadgeText": null,
+                  "productBadge": null,
+                  "addToListCta": null,
+                  "removeFromListCta": null,
+                  "listStatus": "ADD_TO_LIST"
+                }
+              ]
+            }
+          },
+          {
+            "componentId": "buttonGroupComponent",
+            "contentId": "6zNK9q2g4aKctsUZkE9lbR",
+            "variantId": null,
+            "id": "6zNK9q2g4aKctsUZkE9lbR",
+            "orientation": "VERTICAL",
+            "data": {
+              "headerGroup": null,
+              "buttons": [
+                {
+                  "componentId": "buttonComponent",
+                  "contentId": "4NyfZWVzth6OIlZhyMukK2",
+                  "variantId": "SECONDARY",
+                  "id": "4NyfZWVzth6OIlZhyMukK2",
+                  "callToAction": {
+                    "text": "Load more results",
+                    "url": "/search-product"
+                  },
+                  "enabled": null
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "bottomStickySection": {
+        "alignment": "CENTER",
+        "components": [
+          {
+            "componentId": "buttonGroupComponent",
+            "contentId": "1tJ6MrkhCjduXBmLXWkHDc",
+            "variantId": null,
+            "id": "1tJ6MrkhCjduXBmLXWkHDc",
+            "orientation": "VERTICAL",
+            "data": {
+              "headerGroup": null,
+              "buttons": [
+                {
+                  "componentId": "buttonComponent",
+                  "contentId": "NGKm039t0lBsbQ6WxXteZ",
+                  "variantId": "PRIMARY",
+                  "id": "NGKm039t0lBsbQ6WxXteZ",
+                  "callToAction": {
+                    "text": "See my list",
+                    "url": "https://www.pcoptimum.ca/shopping-list?section=globallist"
+                  },
+                  "enabled": null
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "footer": null,
+  "viewMetaData": {
+    "headline": "Search Product Metadata Title",
+    "description": "Search Product Metadata Description",
+    "addMetaNoRobots": false,
+    "canonicalUrlSlug": null,
+    "jsonLd": null
+  },
+  "theme": null
+}

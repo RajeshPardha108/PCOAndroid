@@ -1,0 +1,243 @@
+{
+  "viewId": "global-list",
+  "contentId": "cnsaAfRtpiRJLlu32R69v",
+  "urlPath": null,
+  "headline": null,
+  "header": null,
+  "layout": {
+    "typeId": "pageLayoutSingleColumn",
+    "sections": {
+      "headerSection": null,
+      "mainContentCollection": {
+        "components": [
+          {
+            "componentId": "shoppingListItemListComponent",
+            "contentId": "7MyyblEQVkNCpZMMkd1pQx",
+            "variantId": null,
+            "id": "7MyyblEQVkNCpZMMkd1pQx",
+            "data": {
+              "noResults": null,
+              "shoppingListItem": {
+                "id": "b7ca352f-cd01-4ed0-8cc3-e276f7d084b8",
+                "storeProducts": [
+                  {
+                    "store": {
+                      "url": null,
+                      "altText": null,
+                      "smallUrl": null,
+                      "mediumUrl": null,
+                      "largeUrl": null,
+                      "smallRetinaUrl": null,
+                      "mediumRetinaUrl": null,
+                      "largeRetinaUrl": null
+                    },
+                    "storeName": "Loblaws Leslie Street",
+                    "productItems": [
+                      {
+                        "productItemId": "af9f21e0-3d66-4af2-9468-452fc180fdb1",
+                        "productIdentifier": "20720065_KG",
+                        "productIdentifierType": "LIAM",
+                        "banner": "loblaws",
+                        "productText": "Fresh Atlantic Salmon Fillets, Skin On, Packaged, Club Size",
+                        "productImage": [
+                          {
+                            "url": "https://assets.shop.loblaws.ca/products/20720065/b3/en/front/20720065_front_a06_@2.png",
+                            "altText": "Fresh Atlantic Salmon Fillets, Skin On, Packaged, Club Size",
+                            "smallUrl": "https://assets.shop.loblaws.ca/products/20720065/b1/en/front/20720065_front_a01_@2.png",
+                            "mediumUrl": "https://assets.shop.loblaws.ca/products/20720065/b3/en/front/20720065_front_a06_@2.png",
+                            "largeUrl": "https://assets.shop.loblaws.ca/products/20720065/b2/en/front/20720065_front_a06_@2.png",
+                            "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20720065/b1/en/front/20720065_front_a01_@2.png",
+                            "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20720065/b3/en/front/20720065_front_a06_@2.png",
+                            "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20720065/b2/en/front/20720065_front_a06_@2.png"
+                          }
+                        ],
+                        "detailProductCta": {
+                          "text": "",
+                          "url": "/fresh-atlantic-salmon-fillets-skin-on-packaged-clu/p/20720065_KG"
+                        },
+                        "expiryDateText": "Ends on Dec 31, 9999",
+                        "pricingText": "$30.32",
+                        "pricingStyleText": "DISCOUNT",
+                        "unitText": "EA",
+                        "wasPriceText": "was $30.32 EA",
+                        "isChecked": false,
+                        "removeProductCta": {
+                          "text": "Remove",
+                          "url": "//public/lists/b7ca352f-cd01-4ed0-8cc3-e276f7d084b8/items"
+                        },
+                        "updateProductCta": {
+                          "text": "",
+                          "url": "//public/lists/b7ca352f-cd01-4ed0-8cc3-e276f7d084b8/items"
+                        },
+                        "productBrand": "Scale Label-Div",
+                        "accessibility": {}
+                      },
+                      {
+                        "productItemId": "3662586e-42d5-4467-84c9-89d2a99adf8d",
+                        "productIdentifier": "21240828_EA",
+                        "productIdentifierType": "LIAM",
+                        "banner": "loblaws",
+                        "productText": "Classic Potato Chips",
+                        "productImage": [
+                          {
+                            "url": "https://assets.shop.loblaws.ca/products/21240828/b3/en/front/21240828_front_a06_@2.png",
+                            "altText": "Lay's Classic Potato Chips",
+                            "smallUrl": "https://assets.shop.loblaws.ca/products/21240828/b1/en/front/21240828_front_a01_@2.png",
+                            "mediumUrl": "https://assets.shop.loblaws.ca/products/21240828/b3/en/front/21240828_front_a06_@2.png",
+                            "largeUrl": "https://assets.shop.loblaws.ca/products/21240828/b2/en/front/21240828_front_a06_@2.png",
+                            "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21240828/b1/en/front/21240828_front_a01_@2.png",
+                            "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21240828/b3/en/front/21240828_front_a06_@2.png",
+                            "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21240828/b2/en/front/21240828_front_a06_@2.png"
+                          }
+                        ],
+                        "detailProductCta": {
+                          "text": "",
+                          "url": "/classic-potato-chips/p/21240828_EA"
+                        },
+                        "expiryDateText": "Ends on Dec 31, 9999",
+                        "pricingText": "$6.29",
+                        "pricingStyleText": "DISCOUNT",
+                        "unitText": "EA",
+                        "wasPriceText": "was $5.50 EA",
+                        "isChecked": false,
+                        "removeProductCta": {
+                          "text": "Remove",
+                          "url": "//public/lists/b7ca352f-cd01-4ed0-8cc3-e276f7d084b8/items"
+                        },
+                        "updateProductCta": {
+                          "text": "",
+                          "url": "//public/lists/b7ca352f-cd01-4ed0-8cc3-e276f7d084b8/items"
+                        },
+                        "productBrand": "Lay's",
+                        "accessibility": {}
+                      },
+                      {
+                        "productItemId": "fd4c9cf1-b8c3-40e1-b361-a9b548378d14",
+                        "productIdentifier": "20986060_EA",
+                        "productIdentifierType": "LIAM",
+                        "banner": "loblaws",
+                        "productText": "Max Aa 16 Pack",
+                        "productImage": [
+                          {
+                            "url": "https://assets.shop.loblaws.ca/products/20986060/b3/en/front/20986060_front_a06_@2.png",
+                            "altText": "Energizer Max Aa 16 Pack",
+                            "smallUrl": "https://assets.shop.loblaws.ca/products/20986060/b1/en/front/20986060_front_a01_@2.png",
+                            "mediumUrl": "https://assets.shop.loblaws.ca/products/20986060/b3/en/front/20986060_front_a06_@2.png",
+                            "largeUrl": "https://assets.shop.loblaws.ca/products/20986060/b2/en/front/20986060_front_a06_@2.png",
+                            "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/20986060/b1/en/front/20986060_front_a01_@2.png",
+                            "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/20986060/b3/en/front/20986060_front_a06_@2.png",
+                            "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/20986060/b2/en/front/20986060_front_a06_@2.png"
+                          }
+                        ],
+                        "detailProductCta": {
+                          "text": "",
+                          "url": "/max-aa-16-pack/p/20986060_EA"
+                        },
+                        "expiryDateText": "Ends on Dec 31, 9999",
+                        "pricingText": "$21.00",
+                        "pricingStyleText": "DISCOUNT",
+                        "unitText": "EA",
+                        "wasPriceText": "was $18.99 EA",
+                        "isChecked": false,
+                        "removeProductCta": {
+                          "text": "Remove",
+                          "url": "//public/lists/b7ca352f-cd01-4ed0-8cc3-e276f7d084b8/items"
+                        },
+                        "updateProductCta": {
+                          "text": "",
+                          "url": "//public/lists/b7ca352f-cd01-4ed0-8cc3-e276f7d084b8/items"
+                        },
+                        "productBrand": "Energizer",
+                        "accessibility": {}
+                      }
+                    ]
+                  }
+                ]
+              },
+              "callToAction": {
+                "text": "Swap and Save",
+                "url": "https://www.pcoptimum.ca/shopping-list?section=swap&action=confirm"
+              }
+            }
+          },
+          {
+            "componentId": "buttonGroupComponent",
+            "contentId": "1U58Pt0f8giQBnBDCrXoX9",
+            "variantId": null,
+            "id": "1U58Pt0f8giQBnBDCrXoX9",
+            "orientation": "VERTICAL",
+            "data": {
+              "headerGroup": {
+                "paragraph": null,
+                "callToAction": null,
+                "headline": {
+                  "text": "Keep adding more offers",
+                  "alignment": "LEFT",
+                  "variantId": null,
+                  "headerType": "H1",
+                  "callToAction": null
+                },
+                "desktopImage": null,
+                "mobileImage": null,
+                "tabletImage": null
+              },
+              "buttons": [
+                {
+                  "componentId": "buttonComponent",
+                  "contentId": "36AXrwPwa1lmKfZQJogUDD",
+                  "variantId": "SECONDARY",
+                  "id": "36AXrwPwa1lmKfZQJogUDD",
+                  "callToAction": {
+                    "text": "View Offers",
+                    "url": "https://www.pcoptimum.ca/offers"
+                  },
+                  "enabled": null
+                },
+                {
+                  "componentId": "buttonComponent",
+                  "contentId": "WZ70S3G1vAyGO06IB1mIV",
+                  "variantId": "TERTIARY",
+                  "id": "WZ70S3G1vAyGO06IB1mIV",
+                  "callToAction": {
+                    "text": "View all flyers CTA",
+                    "url": "https://www.pcoptimum.ca/flyers"
+                  },
+                  "enabled": null
+                }
+              ]
+            }
+          },
+          {
+            "componentId": "headerGroupComponent",
+            "contentId": "5Tc23P6NyFrlHzVaiNk0es",
+            "variantId": null,
+            "id": "5Tc23P6NyFrlHzVaiNk0es",
+            "data": {
+              "paragraph": {
+                "text": "Disclaimer placeholder mentioning limits may be enforced, language around current pricing and promotion - can change by the time they check out",
+                "icon": false,
+                "alignment": "Left",
+                "variantId": "REGULAR_01"
+              },
+              "callToAction": null,
+              "headline": null,
+              "desktopImage": null,
+              "mobileImage": null,
+              "tabletImage": null
+            }
+          }
+        ]
+      },
+      "bottomStickySection": null
+    }
+  },
+  "footer": null,
+  "viewMetaData": {
+    "headline": "Global List Metadata Title",
+    "description": "Global List Metadata Description",
+    "addMetaNoRobots": false,
+    "canonicalUrlSlug": null,
+    "jsonLd": null
+  },
+  "theme": null
+}

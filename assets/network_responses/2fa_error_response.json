@@ -1,0 +1,4 @@
+{
+  "error": "client_2fa_required",
+  "error_description": "A client that supports two factor authentication is required"
+}

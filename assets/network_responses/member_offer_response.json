@@ -1,0 +1,891 @@
+{
+  "offers": [
+    {
+      "campaignReferenceId": "101622723",
+      "type": "CONTINUITY",
+      "belongsTo": [
+        "ALL"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-31T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/101622723_en_{size}.jpg",
+      "isHero": true,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": null,
+        "qualificationThresholdUnits": null,
+        "qualificationTextPart1": "When you make 4 purchases of $40 or more on fuel within the month of May at Esso or Mobil Stations",
+        "qualificationTextPart2": null,
+        "productText": null
+      },
+      "progress": {
+        "units": "VISITS",
+        "current": 0,
+        "goal": 4
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 4000,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": false,
+        "allowReject": false,
+        "discoveryOfferCopy": null,
+        "legalText": "Make 4 purchases of $40 or more on fuel at participating Esso or Mobil stations in Canada, and swipe or scan the PC Optimum card or key in the registered phone number associated with the PC Optimum account receiving this offer at the time of purchase to earn the points indicated. We are not obligated to award points based on errors or misprints. PC Optimum points are redeemable at PC Optimum affiliated grocery stores and Shoppers Drug Mart locations. Minimum redemption 10,000 points. No cash value. Visit pcoptimum.ca for full terms & conditions for redemption restrictions. Allow up to 72 hours for points to be awarded. Esso is a trademark of Imperial Oil Limited. Imperial Oil, licensee.  Mobil is a trademark of Exxon Mobil Corporation or one of its subsidiaries. Imperial Oil, licensee",
+        "productTextLong": "Offer applicable to all grades of gasoline and diesel",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "8S",
+      "hidden": false,
+      "id": "9537470376"
+    },
+    {
+      "campaignReferenceId": "100003011",
+      "type": "COUPON",
+      "bannerExclusiveTag": "SHOPPERS_DRUG_MART",
+      "belongsTo": [
+        "ALL_SDM_PHX",
+        "BEAUTY_BOUTIQUE"
+      ],
+      "startDate": "2019-05-03T00:00:00",
+      "endDate": "2019-05-05T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100003011_en_{size}.jpg",
+      "isHero": true,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerSubcopy": {
+        "value": 30,
+        "units": "PERCENT",
+        "multiplier": 0.0
+      },
+      "offerText": {
+        "qualificationThreshold": 7500,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "When you spend",
+        "qualificationTextPart2": null,
+        "productText": "or more in-store "
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 20,
+        "units": "POINTS_MULTIPLIER",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": false,
+        "allowReject": false,
+        "discoveryOfferCopy": null,
+        "legalText": "Offer expires after one use. We reserve the right to limit quantities. We are not obligated to award points based on errors or misprints. Points issued on the net pre-tax purchase total of eligible products exclusively at Shoppers Drug Mart/Pharmaprix, after redemptions and discounts (excludes purchase of tobacco, lottery tickets, alcohol, gift cards, prepaid card products, transit/event tickets, post office transactions, passport photos and any products which are provincially regulated or as we determine from time to time). Can’t be used with any other promotions or offers. No cash value. Minimum redemption 10,000 points. See terms & conditions for details and full list of exclusions.",
+        "productTextLong": "Almost anything in-store. Certain restrictions apply. This offer cannot be combined with department or total store offers. Customers will automatically receive the best of the available offers should they qualify.  Offer can only be redeemed at Shoppers Drug Mart, Pharmaprix, Shoppers Home Health Care or Wellwise. Offer cannot be used in conjunction with employee discount or any other promotional offer.",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "31",
+      "hidden": false,
+      "id": "9408424223"
+    },
+    {
+      "campaignReferenceId": "101570513",
+      "type": "COUPON",
+      "bannerExclusiveTag": "SHOPPERS_DRUG_MART",
+      "belongsTo": [
+        "ALL"
+      ],
+      "startDate": "2019-05-04T00:00:00",
+      "endDate": "2019-05-10T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/101570513_en_{size}.jpg",
+      "isHero": true,
+      "myList": false,
+      "offerFeedSection": "SPECIAL",
+      "offerText": {
+        "qualificationThreshold": 3000,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "when you spend",
+        "qualificationTextPart2": "on",
+        "productText": "Suncare "
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 7500,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": false,
+        "allowReject": false,
+        "discoveryOfferCopy": null,
+        "legalText": "Spend $30 or more after all coupons and discounts are deducted and before taxes in a single transaction. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.  ",
+        "productTextLong": "Sunscreen and tanning products. Offer can only be redeemed at Shoppers Drug Mart or Pharmaprix.",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "3",
+      "hidden": false,
+      "id": "9396411963"
+    },
+    {
+      "campaignReferenceId": "100000486",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100000486_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 200,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "no name Refrigerated Juice"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 400,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $2 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504452152"
+    },
+    {
+      "campaignReferenceId": "100000915",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100000915_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 1000,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "no name Cat Litter"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 2000,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $10 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "8991489046"
+    },
+    {
+      "campaignReferenceId": "100001060",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001060_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 200,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "PC Blue Menu Sparkling Water"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 400,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $2 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and flavours",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504453271"
+    },
+    {
+      "campaignReferenceId": "100001324",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001324_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 100,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "PC Potato Chips"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 200,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $1 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and flavours",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504453992"
+    },
+    {
+      "campaignReferenceId": "100001159",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001159_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 100,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Frozen Seafood"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 100,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $1 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "Frozen Seafood",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504453527"
+    },
+    {
+      "campaignReferenceId": "100001291",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001291_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 100,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Pringles Potato Chips"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 200,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $1 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504453748"
+    },
+    {
+      "campaignReferenceId": "100001418",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001418_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 100,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Grapes"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 100,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $1 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "Grapes",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504454445"
+    },
+    {
+      "campaignReferenceId": "100001915",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001915_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 100,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Quaker Oats or Instant Oatmeal Pouches"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 200,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $1 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504455301"
+    },
+    {
+      "campaignReferenceId": "100001992",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001992_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 200,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "PC Frozen Vegetables or Sides"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 400,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $2 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504455513"
+    },
+    {
+      "campaignReferenceId": "100000793",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100000793_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 300,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Vaseline Hand or Body Lotion"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 600,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $3 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504196637"
+    },
+    {
+      "campaignReferenceId": "100000922",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100000922_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 200,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "no name Cleaning Products"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 400,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $2 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504453054"
+    },
+    {
+      "campaignReferenceId": "100001343",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001343_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 200,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "PC Antipasto, Sundried Tomatoes or Jarred Peppers"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 400,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $2 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504454235"
+    },
+    {
+      "campaignReferenceId": "100002511",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100002511_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": null,
+        "qualificationThresholdUnits": null,
+        "qualificationTextPart1": null,
+        "qualificationTextPart2": null,
+        "productText": "Olivieri Fresh Pastas and Sauces"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 1200,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "Offer valid at participating stores location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners.  Offer expires after one use and cannot be used in subsequent transactions. Product availability may vary by store. We reserve the right to limit quantities. We are not obligated to award points based on errors or misprints. Points apply to items sold as individual units, and are not awarded per unit when the unit is part of a case pack or variety pack. No cash value. Minimum redemption 10,000 points. See terms & Conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "1",
+      "hidden": false,
+      "id": "9504455711"
+    },
+    {
+      "campaignReferenceId": "100000713",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100000713_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 400,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Maple Leaf Fully Cooked Sausage Links and Rounds"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 400,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $4 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504452740"
+    },
+    {
+      "campaignReferenceId": "100001806",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001806_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 100,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Supreme Perogies"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 200,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $1 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504454968"
+    },
+    {
+      "campaignReferenceId": "100001452",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100001452_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": null,
+        "qualificationThresholdUnits": null,
+        "qualificationTextPart1": null,
+        "qualificationTextPart2": null,
+        "productText": "Grace Products"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 200,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "Offer valid at participating stores location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners.  Offer expires after one use and cannot be used in subsequent transactions. Product availability may vary by store. We reserve the right to limit quantities. We are not obligated to award points based on errors or misprints. Points apply to items sold as individual units, and are not awarded per unit when the unit is part of a case pack or variety pack. No cash value. Minimum redemption 10,000 points. See terms & Conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "1",
+      "hidden": false,
+      "id": "9504454707"
+    },
+    {
+      "campaignReferenceId": "100000591",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100000591_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 100,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "PC Blue Menu Pasta Sauce"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 200,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $1 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504452449"
+    },
+    {
+      "campaignReferenceId": "101204972",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/101204972_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": null,
+        "qualificationThresholdUnits": null,
+        "qualificationTextPart1": null,
+        "qualificationTextPart2": null,
+        "productText": "Bonduelle Salad Bowls"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 800,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "Offer expires after one use and cannot be used on subsequent transactions. Product availability may vary by store. We reserve the right to limit quantities. We are not obligated to award points based on errors or misprints. Points apply to items sold as individual units, and are not awarded per unit when the unit is part of a case pack or variety pack. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "1",
+      "hidden": false,
+      "id": "9504455918"
+    },
+    {
+      "campaignReferenceId": "101165017",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/101165017_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 500,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Klorane Products"
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 1000,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": false,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $5 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location operating under the Loblaws Inc. and Shoppers Drug Mart Inc. banners, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504197210"
+    },
+    {
+      "campaignReferenceId": "100418521",
+      "type": "COUPON",
+      "belongsTo": [
+        "ALL_GROCERY"
+      ],
+      "startDate": "2019-05-02T00:00:00",
+      "endDate": "2019-05-08T23:59:59",
+      "imageUrl": "https://assets.pcoptimum.ca/offer/100418521_en_{size}.jpg",
+      "isHero": false,
+      "myList": false,
+      "offerFeedSection": "REGULAR",
+      "offerText": {
+        "qualificationThreshold": 200,
+        "qualificationThresholdUnits": "DOLLARS",
+        "qualificationTextPart1": "For every",
+        "qualificationTextPart2": "spent on",
+        "productText": "Dequadin Lozenges or Oral Paint "
+      },
+      "reward": {
+        "rewardText": null,
+        "value": 400,
+        "units": "POINTS",
+        "pcfAccelerator": null
+      },
+      "details": {
+        "allowDefer": true,
+        "allowReject": true,
+        "discoveryOfferCopy": null,
+        "legalText": "For every $2 spent on the items indicated before applicable taxes and after all coupons and discounts are deducted, in a single transaction at any participating store location, you will earn the points indicated. Product availability may vary by store. We are not obligated to award points based on errors or misprints. No cash value. Minimum redemption 10,000 points. See terms & conditions for redemption restrictions.",
+        "productTextLong": "All sizes and varieties",
+        "offerExplanation": null
+      },
+      "status": "LOADED",
+      "templateNumber": "4",
+      "hidden": false,
+      "id": "9504196939"
+    }
+  ]
+}

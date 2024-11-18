@@ -1,0 +1,151 @@
+{
+  "viewId": "swap-and-save",
+  "contentId": "7togVULmtIIP2zNSJc3RLD",
+  "urlPath": null,
+  "headline": "PCO Global List Swap and Save",
+  "header": null,
+  "layout": {
+    "typeId": "pageLayoutSingleColumn",
+    "sections": {
+      "headerSection": null,
+      "mainContentCollection": {
+        "components": [
+          {
+            "componentId": "headerGroupComponent",
+            "contentId": "3QjuekO3HELbMOwNdvHjBa",
+            "variantId": null,
+            "id": "3QjuekO3HELbMOwNdvHjBa",
+            "data": {
+              "paragraph": {
+                "text": "Check out these suggestions to swap out products on your list with alternatives so you can save big and stay on budget",
+                "icon": false,
+                "alignment": "Left",
+                "variantId": "REGULAR_01"
+              },
+              "callToAction": null,
+              "headline": {
+                "text": "Swap and save",
+                "alignment": "LEFT",
+                "variantId": "SMALL_04",
+                "headerType": "H1",
+                "callToAction": null
+              },
+              "desktopImage": {
+                "url": "https://dis-prod.assetful.loblaw.ca/content/dam/loblaw-companies-limited/creative-assets/pc-optimum/global-list/icon-swapsave.svg",
+                "altText": "Savings"
+              },
+              "mobileImage": {
+                "url": "https://dis-prod.assetful.loblaw.ca/content/dam/loblaw-companies-limited/creative-assets/pc-optimum/global-list/icon-swapsave@2x.png",
+                "altText": "Savings"
+              },
+              "tabletImage": {
+                "url": "https://dis-prod.assetful.loblaw.ca/content/dam/loblaw-companies-limited/creative-assets/pc-optimum/global-list/icon-swapsave@2x.png",
+                "altText": "Savings"
+              }
+            }
+          },
+          {
+            "componentId": "swapAndSaveListComponent",
+            "contentId": "1lbbIlQ9b0IqgLg9k1hIff",
+            "variantId": null,
+            "id": "1lbbIlQ9b0IqgLg9k1hIff",
+            "data": {
+              "swapData": {
+                "listId": "b7ca352f-cd01-4ed0-8cc3-e276f7d084b8",
+                "swaps": [
+                  {
+                    "currentProduct": {
+                      "productItemId": "3662586e-42d5-4467-84c9-89d2a99adf8d",
+                      "productIdentifier": "21240828_EA",
+                      "headline": "In your list",
+                      "productImage": [
+                        {
+                          "url": "https://assets.shop.loblaws.ca/products/21240828/b3/en/front/21240828_front_a06_@2.png",
+                          "altText": "Lay's Classic Potato Chips",
+                          "smallUrl": "https://assets.shop.loblaws.ca/products/21240828/b1/en/front/21240828_front_a01_@2.png",
+                          "mediumUrl": "https://assets.shop.loblaws.ca/products/21240828/b3/en/front/21240828_front_a06_@2.png",
+                          "largeUrl": "https://assets.shop.loblaws.ca/products/21240828/b2/en/front/21240828_front_a06_@2.png",
+                          "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21240828/b1/en/front/21240828_front_a01_@2.png",
+                          "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21240828/b3/en/front/21240828_front_a06_@2.png",
+                          "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21240828/b2/en/front/21240828_front_a06_@2.png"
+                        }
+                      ],
+                      "productBrand": "Lay's",
+                      "productText": "Classic Potato Chips",
+                      "pricingText": "$6.29",
+                      "unitText": "ea"
+                    },
+                    "availableProductSwap": {
+                      "productIdentifier": "21241032_EA",
+                      "savingsImage": {
+                        "url": "https://dis-prod.assetful.loblaw.ca/content/dam/loblaw-companies-limited/creative-assets/pc-optimum/global-list/icon-swapsave@2x.png",
+                        "altText": "Savings"
+                      },
+                      "savingsText": "Save $1.30 with this alternative",
+                      "savingsAmountCents": 130,
+                      "productImage": [
+                        {
+                          "url": "https://assets.shop.loblaws.ca/products/21241032/b3/en/front/21241032_front_a06_@2.png",
+                          "altText": "Lay's Classic Potato Chips",
+                          "smallUrl": "https://assets.shop.loblaws.ca/products/21241032/b1/en/front/21241032_front_a01_@2.png",
+                          "mediumUrl": "https://assets.shop.loblaws.ca/products/21241032/b3/en/front/21241032_front_a06_@2.png",
+                          "largeUrl": "https://assets.shop.loblaws.ca/products/21241032/b2/en/front/21241032_front_a06_@2.png",
+                          "smallRetinaUrl": "https://assets.shop.loblaws.ca/products/21241032/b1/en/front/21241032_front_a01_@2.png",
+                          "mediumRetinaUrl": "https://assets.shop.loblaws.ca/products/21241032/b3/en/front/21241032_front_a06_@2.png",
+                          "largeRetinaUrl": "https://assets.shop.loblaws.ca/products/21241032/b2/en/front/21241032_front_a06_@2.png"
+                        }
+                      ],
+                      "productBrand": "Lay's",
+                      "productText": "Classic Potato Chips",
+                      "pricingText": "$4.99",
+                      "unitText": "ea",
+                      "swapText": "Swap this item",
+                      "swapState": false
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "bottomStickySection": {
+        "alignment": "CENTER",
+        "components": [
+          {
+            "componentId": "buttonGroupComponent",
+            "contentId": "3l2h8DaE4WZitkBUGDde8L",
+            "variantId": null,
+            "id": "3l2h8DaE4WZitkBUGDde8L",
+            "orientation": "VERTICAL",
+            "data": {
+              "headerGroup": null,
+              "buttons": [
+                {
+                  "componentId": "buttonComponent",
+                  "contentId": "4lwCKVogLw6CoCF9VRvmD6",
+                  "variantId": "PRIMARY",
+                  "id": "4lwCKVogLw6CoCF9VRvmD6",
+                  "callToAction": {
+                    "text": "Confirm",
+                    "url": "https://www.pcoptimum.ca/shopping-list?section=swap&action=confirm"
+                  },
+                  "enabled": false
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "footer": null,
+  "viewMetaData": {
+    "headline": "Swap and Save Meta Data Title",
+    "description": "Swap and Save Meta Data Description",
+    "addMetaNoRobots": false,
+    "canonicalUrlSlug": null,
+    "jsonLd": null
+  },
+  "theme": null
+}

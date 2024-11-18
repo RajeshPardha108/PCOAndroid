@@ -1,0 +1,54 @@
+{
+  "CONVERSION_NON_ACTIVE_ACCOUNT": "You are attempting to link an inactive account.",
+  "MEMBERS_NOT_FOUND": "Invalid card number",
+  "CLAIMS_INVALID_CARD_NUMBER": "Invalid card number",
+  "MEMBERS_POINTEVENT_NOT_FOUND": "The information you requested can’t be found, sorry!",
+  "MEMBERS_OFFER_NOT_FOUND": "No new offers were found. You’re up to date!",
+  "MEMBERS_PHONE_NUMBER_ALREADY_EXISTS": "Looks like we already have an account associated with that number.",
+  "CONVERSION_NO_TRANSACTIONS": "No valid transactions were found.",
+  "CONVERSION_NOT_FOUND": "No valid conversions were found, please try again.",
+  "CONVERSION_DEVICE_DETAILS_ERROR": "You’ve entered an invalid account ID.",
+
+  "CONVERSION_INVALID_CARD_NUMBER": "Card number not found, please try again.",
+  "CONVERSION_EMAIL_NOT_FOUND": "Email address not found",
+  "CONVERSION_INVALID_SECRET": "Incorrect password entered.",
+  "CONVERSION_INVALID_EMAIL": "Email address not found, please try again.",
+  "CONVERSION_INVALID_PCF_CREDENTIALS": "We were unable to to find a card with that information, please try again.",
+  "CONVERSION_AUTHMETHOD_INVALID": "Invalid entry, please try again.",
+  "CONVERSION_CHALLENGE_QUESTION_LOCKED": "You have exceeded the maximum number of login attempts.",
+  "CONVERSION_INVALID_TOKEN": "We’re having trouble verifying that link. Please try again.",
+  "CONVERSION_ALREADY_CLAIMED_BY_YOU": "It looks like you’ve already claimed this card.",
+  "MEMBERS_AUTHORIZATION_FAILURE": "This card has already been activated by someone else",
+  "CONVERSION_INVALID_MEMBER_ID": "This conversion was initiated from another account, please log out and log back in",
+  "CONVERSION_INVALID_ANSWERS": "It seems one or more questions was answered incorrectly. You have one more try to answer all of the below correctly.",
+
+  "MEMBERS_ALREADY_EXISTS": "There is already an account associated with this e-mail address",
+
+  "missing_access_token": "Your session has expired, please log in again",
+  "invalid_token": "Your session has expired, please log in again",
+  "invalid_id_match": "Your session has expired, please log in again",
+  "invalid_grant": "Your session has expired, please log in again",
+  "invalid_key_authentication": "Incorrect email or password",
+  "invalid_key_authentication_registration": "It looks like you already have a PCid.",
+  "invalid_token_scope": "please enter your credentials to access this page",
+  "invalid_email_change": "This email address is already registered to an account. Please choose a different email.",
+
+  "OFFERS_NOT_FOUND": "We can't locate the offer you are looking for.",
+  "OFFERS_DEFER_BAD_REQUEST": "Sorry, you can’t defer more than four offers at once",
+  "OFFERS_BAD_REQUEST": "Something went wrong while trying to update this offer.",
+
+  "EMAILVERIFICATION_TOKEN_NOT_FOUND": "Your email link has expired. Please login or click Forgot Password.",
+  "EMAILVERIFICATION_MEMBERS_NOT_REGISTERED": "Looks like that email isn’t registered with the PC Optimum program",
+  "EMAILVERIFICATION_MEMBERS_NOT_REGISTERED_SIGNUP": "Looks like that email isn't registered with the PC Optimum program. ",
+  "EMAIL_SENDING_FAILED": "We’ve had some trouble submitting your request. Please try again.",
+  "MEMBERS_ACCOUNT_SUSPENDED": "Looks like there’s something wrong with your account, please contact customer service at 1-800-xxx-xxxx.",
+
+  "INVITATION_ALREADY_EXISTS": "You have already sent an invitation to this email address.",
+
+  "CONTACT_FORM_SUBMISSION_FAILURE": "There is an error processing your request, please call 1-800-727-6468.",
+
+  "CLIENT_2FA_REQUIRED": "Please sign in again to continue as 2-Step Verification was enabled from another device.",
+
+  "password_policy_violation": "Password too common, try adding another word or two.",
+  "FEATURE_UNAVAILABLE":  "Our apologies, this feature is currently unavailable."
+}

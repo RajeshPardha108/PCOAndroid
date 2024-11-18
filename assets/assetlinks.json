@@ -1,0 +1,20 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sap.mdc.loblaw.nativ",
+      "sha256_cert_fingerprints":
+      ["F2:37:50:CF:3F:A9:10:C4:F3:A1:93:29:06:E6:2E:DA:B1:AB:9A:B4:04:2D:65:04:9C:C4:E6:D4:7A:7E:48:2F"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sap.mdc.loblaw.nativ.dev.debug",
+      "sha256_cert_fingerprints":
+      ["C8:3B:9E:0F:28:67:11:36:26:2C:FE:23:9C:EC:72:5D:9E:EE:A9:EA:0B:35:0E:A6:D2:63:B0:F9:EB:48:04:37"]
+    }
+  }
+]
